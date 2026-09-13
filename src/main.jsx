@@ -15,7 +15,7 @@ import {
 import { toast, ToastContainer } from "react-toastify";
 
 import "react-toastify/dist/ReactToastify.css";
-import "./styles.css";
+import "/styles.css";
 
 const navItems = ["Home", "Technologies", "Projects", "About", "Contact"];
 
